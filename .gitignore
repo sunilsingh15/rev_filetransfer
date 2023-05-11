@@ -1,0 +1,6 @@
+vscode
+bin
+lib
+README.md
+src/*.class
+src/song.mp3
